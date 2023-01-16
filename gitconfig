@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = edwardmb@me.com
+	name = Edward Macdonald-Buchanan
